@@ -62,6 +62,10 @@
 🧑‍🏫 Academic platform with profiles, courses, video sessions, and real-time chat.  
 🔧 Built using Flutter, Firebase, Supabase, and Jitsi Meet integration.
 
+#### 🍳 [Cooking Up](https://github.com/MahmoudHassan12/cooking_up)
+🥗 Recipes app with dietary filtering, favorites, and clean Provider-based architecture.  
+✨ Smooth UI animations, intuitive navigation, and dark mode support.
+
 #### 📖 [Quran App](https://github.com/MahmoudHassan12/quran-app) *(In Progress)*
 📜 Quran reading app with streaming & downloadable MP3 audio.  
 🔔 Includes dynamic Islamic lecture notifications.
