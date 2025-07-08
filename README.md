@@ -59,7 +59,7 @@
 
 #### 🥇 [GO Healthy](https://github.com/MahmoudHassan12/Go-Healthy)  
 🏋️‍♂️ **Award-winning fitness app** for tracking meals, calories, and steps using Firebase.  
-🌟 Selected as the **best project** among **25,000+ developers** in a national tech competition.
+🌟 Selected as the **best project** among **15,000+ developers** in a national tech competition.
 
 #### 🎓 [Edu Link](https://github.com/MahmoudHassan12/edulink)  
 📚 Academic platform with user profiles, courses, real-time chat, and video sessions.  
