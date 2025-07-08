@@ -49,20 +49,6 @@
 #### 💬 [ConnectMe](https://github.com/MahmoudHassan12/connectme)
 💬 1-to-1 real-time chat app with Firebase Auth, media sharing, and contact sync.
 
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudHassan12&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudHassan12&theme=radical" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudHassan12&layout=compact&theme=radical" height="160"/>
-</p>
-
 ---
 
 ### 📫 Let’s Connect
