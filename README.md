@@ -31,11 +31,11 @@
 
 ### 🚀 Featured Projects
 
-#### 🥇 [GO Healthy](https://github.com/MahmoudHassan12/go-healthy)
+#### 🥇 [GO Healthy](https://github.com/MahmoudHassan12/Go-Healthy)
 🏋️‍♂️ Award-winning fitness app for tracking meals, calories, and steps using Firebase.  
 🌟 Selected as best project in a national competition of 25,000+ developers.
 
-#### 🎓 [Edu Link](https://github.com/MahmoudHassan12/edu-link)
+#### 🎓 [Edu Link](https://github.com/MahmoudHassan12/edulink)
 🧑‍🏫 Academic platform with profiles, courses, video sessions, and real-time chat.  
 🔧 Built using Flutter, Firebase, Supabase, and Jitsi Meet integration.
 
