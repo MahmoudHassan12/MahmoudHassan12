@@ -71,7 +71,9 @@
 🔔 Includes dynamic Islamic lecture notifications.
 
 #### 🛍️ [Easy Shopping](https://github.com/MahmoudHassan12/easy-shopping)
-🛒 E-commerce app with admin dashboard, coupon system, and PDF invoices.  
+🛒 Complete e-commerce app with admin dashboard and user panel, built using Flutter, Firebase, and GetX.
+🧾 Includes advanced features like PDF invoice generation, coupon system, profile management, search/filter, undo, WhatsApp redirects, dark mode, and real-time stats & analytics for admin.
+🔧 Designed with clean architecture, scalable logic, and business-oriented functionality.
 
 #### 💬 [ConnectMe](https://github.com/MahmoudHassan12/connectme)
 💬 1-to-1 real-time chat app with Firebase Auth, media sharing, and contact sync.
