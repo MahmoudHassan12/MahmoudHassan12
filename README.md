@@ -10,7 +10,7 @@
 ### 🧠 About Me
 
 - 🎓 B.Sc. in **Computer Science & Statistics**, *Ain Shams University* (Graduation: Jun 2025)  
-- 🏆 **1st Place** – Graduation Project (**GO Healthy**) in **Digital Egypt Pioneers (DEPI)**, selected among **25,000+ developers**  
+- 🏆 **1st Place** – Graduation Project (**GO Healthy**) in **Digital Egypt Pioneers (DEPI)**, selected among **15,000+ developers**  
 - 🚀 Building real-world apps using **Flutter**, **Firebase**, **Supabase**, and modern state management (**GetX**, **Provider**)  
 - 💼 Open for **freelance opportunities** and **collaborations on open-source projects**
 
@@ -65,20 +65,20 @@
 📚 Academic platform with user profiles, courses, real-time chat, and video sessions.  
 🔧 Built with **Flutter**, **Firebase**, **Supabase**, and **Jitsi Meet** integration.
 
-#### 🍳 [Cooking Up](https://github.com/MahmoudHassan12/cooking_up)  
-🥗 Recipes app with dietary filtering, favorite meals, and clean Provider-based architecture.  
-✨ Features smooth UI animations, intuitive navigation, and full dark mode support.
-
-#### 📖 [Quran App](https://github.com/MahmoudHassan12/quran-app) *(In Progress)*  
-📜 Quran reading app with streaming & downloadable MP3 audio.  
-🔔 Includes dynamic notifications for new Islamic lectures and content.
-
-#### 🛍️ [Easy Shopping](https://github.com/MahmoudHassan12/easy-shopping)  
+#### 🛍️ [Easy Shopping](https://github.com/MahmoudHassan12/easy_shopping)  
 🛒 **Full-featured e-commerce app** with **admin dashboard**, **user panel**, and real-time inventory.  
 🧾 Features include **PDF invoice generation**, **discount coupons**, **user profiles**, **search**, **dark mode**, **feedback management**, and **admin analytics**.  
 💼 Built using **Flutter**, **Firebase**, and **GetX** with scalable architecture.
 
-#### 💬 [ConnectMe](https://github.com/MahmoudHassan12/connectme)  
+#### 🍳 [Cooking Up](https://github.com/MahmoudHassan12/cooking_up)  
+🥗 Recipes app with dietary filtering, favorite meals, and clean **Provider-based** architecture.  
+✨ Features smooth UI animations, intuitive navigation, and full dark mode support.
+
+#### 📖 [Quran App](https://github.com/MahmoudHassan12/quran_app) *(In Progress)*  
+📜 Quran reading app with streaming & downloadable MP3 audio.  
+🔔 Includes dynamic notifications for new Islamic lectures and content.
+
+#### 💬 [ConnectMe](https://github.com/MahmoudHassan12/connect_me)  
 💬 Real-time chat app with Firebase Auth, 1-to-1 messaging, media sharing, and contact sync.
 
 ---
