@@ -2,7 +2,7 @@
 <h3 align="center">Flutter Developer | Firebase Enthusiast | UI/UX & Performance Focused</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6BC5F8&size=22&center=true&vCenter=true&lines=Passionate+Flutter+Developer; Firebase+%7C+GetX+%7C+UI/UX+Enthusiast;Let's+Build+Beautiful+Apps!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=6BC5F8&size=22&center=true&vCenter=true&lines=Passionate+Flutter+Developer;Firebase+%7C+GetX+%7C+UI/UX+Enthusiast;Let's+Build+Beautiful+Apps!" />
 </p>
 
 ---
