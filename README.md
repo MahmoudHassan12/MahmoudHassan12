@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-- 🎓 B.Sc. in **Computer Science & Statistics**, *Ain Shams University* (Expected Jun 2025)  
+- 🎓 B.Sc. in **Computer Science & Statistics**, *Ain Shams University* (Graduation: Jun 2025)  
 - 🏆 **1st Place** – Graduation Project (**GO Healthy**) in **Digital Egypt Pioneers (DEPI)**, selected among **25,000+ developers**  
 - 🚀 Building real-world apps using **Flutter**, **Firebase**, **Supabase**, and modern state management (**GetX**, **Provider**)  
 - 💼 Open for **freelance opportunities** and **collaborations on open-source projects**
