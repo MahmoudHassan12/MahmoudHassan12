@@ -81,6 +81,29 @@
 #### 💬 [ConnectMe](https://github.com/MahmoudHassan12/connect_me)  
 💬 Real-time chat app with Firebase Auth, 1-to-1 messaging, media sharing, and contact sync.
 
+#### 💵 [Expenses Tracker](https://github.com/MahmoudHassan12/expenses_tracker)
+📊 Simple and elegant app for tracking daily spending and visualizing expenses.
+🎯 Features include category-based input, responsive layout, and a colorful bar chart — all done with pure Flutter.
+
+#### 🛒 [Shopping Cart](https://github.com/MahmoudHassan12/shopping_cart)
+🧺 Minimal cart app with Firebase integration for adding and storing items.
+📦 Features a clean UI with product name, quantity, and category selection using dropdowns.
+
+#### ✅ [Simple To-Do](https://github.com/MahmoudHassan12/to_do)
+🗓️ Smart task manager with categorized tasks and creative UI.
+⏰ Includes reminders, repeat scheduling, and start/end time/date support.
+🔔 Features notifications, color-coded task tiles, and date filtering via calendar selector.
+
+#### ❌⭕ [Tic-Tac-Toe Game](https://github.com/MahmoudHassan12/XO)
+🎮 Classic XO game with two modes: 2 Players and vs CPU (bot).
+🧠 The bot uses basic logic for a fun and fair challenge.
+✨ Simple UI with smooth animations and a clean layout.
+
+#### ⚖️ [BMI Calculator](https://github.com/MahmoudHassan12/BMI)
+🚻 Simple Flutter app to calculate BMI using gender, height, weight, and age.
+🧮 Instantly shows BMI result with category (e.g. Normal, Overweight).
+🎨 Clean and minimal UI for quick health checks.
+
 ---
 
 ### 📫 Let’s Connect
